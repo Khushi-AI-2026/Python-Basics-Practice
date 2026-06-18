@@ -29,7 +29,7 @@ I have successfully completed and practiced the following fundamental topics:
 ## 🛠 How to Use
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/Python-Basics-Practice.git](https://github.com/YOUR_USERNAME/Python-Basics-Practice.git)
+   git clone [https://github.com/Khushiyadav-Dev/Python-Basics-Practice.git](https://github.com/Khushiyadav-Dev/Python-Basics-Practice.git)
 
 
 
